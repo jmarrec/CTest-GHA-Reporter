@@ -1,0 +1,25 @@
+name: Test reporter
+
+on:
+  push:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include_skipped: ['', '--include-skipped-warnings']
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Test reporter
+      run: |
+        set -x
+        python ctest_junit_parser.py ${{ matrix.include_skipped }} test/ctest.xml
