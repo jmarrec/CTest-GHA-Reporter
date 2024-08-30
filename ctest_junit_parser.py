@@ -56,7 +56,6 @@ class GithubAnnotation:
         self.message_lines = []
         self.status = status
 
-        self.line_num = None
         if self.rel_path:
             if not self.line_num:
                 print(f"For {self.test_name}, rel_path was passed but line_num wasn't. {rel_path=}")

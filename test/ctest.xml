@@ -23,24 +23,24 @@
 [NON-XML-CHAR-0x1B][0;32m[  PASSED  ] [NON-XML-CHAR-0x1B][m1 test.
 </system-out>
 	</testcase>
-	<testcase name="EnergyPlusFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest" classname="EnergyPlusFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest" time="0.345836" status="run">
+	<testcase name="FakeFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest" classname="FakeFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest" time="0.345836" status="run">
 		<properties/>
-		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = EnergyPlusFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest
+		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = FakeFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest
 [NON-XML-CHAR-0x1B][m[NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][mRunning 1 test from 1 test suite.
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment set-up.
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture
-[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest
-[NON-XML-CHAR-0x1B][0;32m[       OK ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest (281 ms)
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture (281 ms total)
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture
+[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mFakeFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest
+[NON-XML-CHAR-0x1B][0;32m[       OK ] [NON-XML-CHAR-0x1B][mFakeFixture.ICSSolarCollectorTest_CalcPassiveExteriorBaffleGapTest (281 ms)
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture (281 ms total)
 
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment tear-down
 [NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][m1 test from 1 test suite ran. (281 ms total)
 [NON-XML-CHAR-0x1B][0;32m[  PASSED  ] [NON-XML-CHAR-0x1B][m1 test.
 </system-out>
 	</testcase>
-	<testcase name="EnergyPlusFixture.DISABLED_Timer_ticktock" classname="EnergyPlusFixture.DISABLED_Timer_ticktock" time="0.0206076" status="run">
+	<testcase name="FakeFixture.DISABLED_test" classname="FakeFixture.DISABLED_test" time="0.0206076" status="run">
 		<properties/>
-		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = EnergyPlusFixture.DISABLED_Timer_ticktock
+		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = FakeFixture.DISABLED_test
 [NON-XML-CHAR-0x1B][m[NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][mRunning 0 tests from 0 test suites.
 [NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][m0 tests from 0 test suites ran. (0 ms total)
 [NON-XML-CHAR-0x1B][0;32m[  PASSED  ] [NON-XML-CHAR-0x1B][m0 tests.
@@ -50,49 +50,49 @@
 [NON-XML-CHAR-0x1B][m
 </system-out>
 	</testcase>
-	<testcase name="EnergyPlusFixture.Timer_throw_if_not_stopped" classname="EnergyPlusFixture.Timer_throw_if_not_stopped" time="0.487384" status="fail">
+	<testcase name="FakeFixture.test_numerical" classname="FakeFixture.test_numerical" time="0.487384" status="fail">
 		<failure message="NUMERICAL"/>
 		<properties/>
-		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = EnergyPlusFixture.Timer_throw_if_not_stopped
+		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = FakeFixture.test_numerical
 [NON-XML-CHAR-0x1B][m[NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][mRunning 1 test from 1 test suite.
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment set-up.
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture
-[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.Timer_throw_if_not_stopped
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture
+[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mFakeFixture.test_numerical
 </system-out>
 	</testcase>
-	<testcase name="EnergyPlusFixture.Timer_formatter" classname="EnergyPlusFixture.Timer_formatter" time="0.350559" status="fail">
+	<testcase name="FakeFixture.test_failure" classname="FakeFixture.test_failure" time="0.350559" status="fail">
 		<failure message="Failed"/>
 		<properties/>
-		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = EnergyPlusFixture.Timer_formatter
+		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = FakeFixture.test_failure
 [NON-XML-CHAR-0x1B][m[NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][mRunning 1 test from 1 test suite.
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment set-up.
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture
-[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.Timer_formatter
-/home/julien/Software/Others/EnergyPlus/tst/EnergyPlus/unit/Timer.unit.cc:102: Failure
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture
+[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mFakeFixture.test_failure
+/home/julien/Software/Others/EnergyPlus/test/Example_GTest.cpp:18: Failure
 Value of: false
   Actual: false
 Expected: true
-[NON-XML-CHAR-0x1B][0;31m[  FAILED  ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.Timer_formatter (278 ms)
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture (278 ms total)
+[NON-XML-CHAR-0x1B][0;31m[  FAILED  ] [NON-XML-CHAR-0x1B][mFakeFixture.test_failure (278 ms)
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture (278 ms total)
 
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment tear-down
 [NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][m1 test from 1 test suite ran. (278 ms total)
 [NON-XML-CHAR-0x1B][0;32m[  PASSED  ] [NON-XML-CHAR-0x1B][m0 tests.
 [NON-XML-CHAR-0x1B][0;31m[  FAILED  ] [NON-XML-CHAR-0x1B][m1 test, listed below:
-[NON-XML-CHAR-0x1B][0;31m[  FAILED  ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.Timer_formatter
+[NON-XML-CHAR-0x1B][0;31m[  FAILED  ] [NON-XML-CHAR-0x1B][mFakeFixture.test_failure
 
  1 FAILED TEST
 </system-out>
 	</testcase>
-	<testcase name="EnergyPlusFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea" classname="EnergyPlusFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea" time="0.699267" status="run">
+	<testcase name="FakeFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea" classname="FakeFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea" time="0.699267" status="run">
 		<properties/>
-		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = EnergyPlusFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea
+		<system-out>[NON-XML-CHAR-0x1B][0;33mNote: Google Test filter = FakeFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea
 [NON-XML-CHAR-0x1B][m[NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][mRunning 1 test from 1 test suite.
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment set-up.
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture
-[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea
-[NON-XML-CHAR-0x1B][0;32m[       OK ] [NON-XML-CHAR-0x1B][mEnergyPlusFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea (623 ms)
-[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from EnergyPlusFixture (623 ms total)
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture
+[NON-XML-CHAR-0x1B][0;32m[ RUN      ] [NON-XML-CHAR-0x1B][mFakeFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea
+[NON-XML-CHAR-0x1B][0;32m[       OK ] [NON-XML-CHAR-0x1B][mFakeFixture.MixedTank_PVT_Per_VolumeSizing_PerSolarCollectorArea (623 ms)
+[NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][m1 test from FakeFixture (623 ms total)
 
 [NON-XML-CHAR-0x1B][0;32m[----------] [NON-XML-CHAR-0x1B][mGlobal test environment tear-down
 [NON-XML-CHAR-0x1B][0;32m[==========] [NON-XML-CHAR-0x1B][m1 test from 1 test suite ran. (623 ms total)
